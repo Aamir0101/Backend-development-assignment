@@ -271,23 +271,6 @@ Users can access resources based on assigned roles.
 
 ---
 
-## Swagger Documentation
-
-Start the application and open:
-
-```text
-http://localhost:3000/api-docs
-```
-
-Swagger UI provides:
-
-- API Testing Interface
-- JWT Authorization Support
-- Request/Response Schemas
-- OpenAPI 3.0 Documentation
-
----
-
 ## Testing with Postman
 
 ### Register
