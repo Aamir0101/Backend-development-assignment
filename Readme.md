@@ -12,7 +12,6 @@ A secure Node.js and Express.js backend application implementing **JWT Authentic
 - Protected Routes
 - EJS Views
 - MongoDB Database Integration
-- Swagger API Documentation
 - Secure HTTP-only Cookies
 
 ---
