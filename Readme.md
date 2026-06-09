@@ -26,7 +26,6 @@ A secure Node.js and Express.js backend application implementing **JWT Authentic
 - JWT (jsonwebtoken)
 - bcryptjs
 - EJS
-- Swagger UI
 - dotenv
 
 ---
@@ -58,7 +57,6 @@ src/
 ├── public/
 │   └── css/
 │
-├── swagger.js
 ├── app.js
 └── .env
 ```
